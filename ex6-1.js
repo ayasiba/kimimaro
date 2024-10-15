@@ -1,2 +1,2 @@
-fanction sayhello61(){alert('Hello,Function!');}
-fanction saygoodbye(){alert('Goodbye.');}
+function sayhello61(){alert('Hello,Function!');}
+function saygoodbye(){alert('Goodbye.');}
