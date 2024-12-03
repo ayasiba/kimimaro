@@ -128,9 +128,11 @@ function gazo6882()
   </form>
 
   <h1>練習問題6.12　タイマーによる表示</h1>
-  if(cnt<11){//gennzaiyori1mozi多く切りだされて表示document.timer.moji.value=str.substr(0,cut+1;}
-  else{//すべて表示されたら、空文字に戻すdocument.timer.moji.value="";}
-  function startfnc(){//関数hyoji()を1000ミリ秒間隔で呼び出すsetlnterval("hyoji()",1000)}
+ <form name="timer">
+ <input type="button" value="スタート"onclick="startfnc()">
+ <br>
+ <input type="text" name="moji" size="30"value="">
+ </form>
 </body>
 </html>
 
