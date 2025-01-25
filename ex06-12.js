@@ -10,5 +10,6 @@ document.timer.moji.value=str.substr(0,cnt+1);}
 else{
 //全て表示されたら、空文字に戻す
 document.timer.moji.value="";}
-//setTimeout()を含む関数を呼び出す
-setTimeout("hyoji()",1000);}
+function startfnc(){
+//関数hyoji()を1000ミリ秒間隔で呼び出す
+setInterval("hyoji()",1000);}
