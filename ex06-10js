@@ -1,3 +1,0 @@
-function imgchange1(){document.getElementById('mark').src='./image/kimimaro.jpg';}
-function imgchange2(){document.getElmentById('mark').src='./image/nptyamu.jpg';}
-
