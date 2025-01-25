@@ -1,1 +1,1 @@
-function gazo688(){document.getELementById('who688').innerHTML='<img src="./image/nptyamu.jpg"alt="オン">';}
+function gazo6882(){document.getELementById('who6882').innerHTML='<img src="./image/nptyamu.jpg"alt="オン">';}
